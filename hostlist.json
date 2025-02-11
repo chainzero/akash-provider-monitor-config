@@ -3,6 +3,6 @@
     "provider.v100.ch.cato.akash.pub:8444",
     "provider.4090.qci.val.akash.pub:8444",
     "provider.a100.hou3.dd.akash.pub:8444",
-    "provider.a100.mon.obl.akash.pub",
+    "provider.a100.mon.obl.akash.pub:8444",
     "provider.bad.com:8444"
     ]
