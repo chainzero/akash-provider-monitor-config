@@ -15,11 +15,11 @@
     "provider.h100.hou.sfc.akash.pub:8444",
     "provider.h100.sdg.val.akash.pub:8444",
     "provider.h100.hou.dd.akash.pub:8444",
-    "provider.h100.hou.val.akash.pub:8444",
     "provider.h200.dfw.val.akash.pub:8444",
     "provider.h200.dfw2.val.akash.pub:8444",
     "provider.h200.atx.val.akash.pub:8444",
     "provider.h200.atl.val.akash.pub:8444",
     "provider.h200.atl.nb.akash.pub:8444",
-    "provider.h100.ams.val.akash.pub:8444"
+    "provider.h100.ams.val.akash.pub:8444",
+    "provider.h100.ams2.val.akash.pub:8444"
 ]
