@@ -14,5 +14,5 @@
     {
         "name": "Behind RPC",
         "endpoint": "https://rpc.sandbox-01.aksh.pw"
-    },
+    }
   ]
