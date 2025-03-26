@@ -5,14 +5,14 @@
     },
     {
       "name": "Akashnet Primary RPC",
-      "endpoint": "https://consolerpc.akashnet.net"
+      "endpoint": "https://rpc.akashnet.net"
     },
     {
         "name": "Fake RPC",
-        "endpoint": "https://xyz.akashnet.net"
+        "endpoint": "https://akash-rpc.europlots.com:443"
     },
     {
         "name": "Behind RPC",
-        "endpoint": "https://rpc.sandbox-01.aksh.pw"
+        "endpoint": "https://akash-rpc.europlots.com:443"
     }
   ]
