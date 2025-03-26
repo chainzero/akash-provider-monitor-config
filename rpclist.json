@@ -1,0 +1,10 @@
+[
+    {
+      "name": "Akash RPC Console",
+      "endpoint": "https://consolerpc.akashnet.net"
+    },
+    {
+      "name": "Akashnet Primary RPC",
+      "endpoint": "https://consolerpc.akashnet.net"
+    }
+  ]
