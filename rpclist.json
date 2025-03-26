@@ -6,5 +6,13 @@
     {
       "name": "Akashnet Primary RPC",
       "endpoint": "https://consolerpc.akashnet.net"
-    }
+    },
+    {
+        "name": "Fake RPC",
+        "endpoint": "https://xyz.akashnet.net"
+    },
+    {
+        "name": "Behind RPC",
+        "endpoint": "https://rpc.sandbox-01.aksh.pw"
+    },
   ]
