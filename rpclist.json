@@ -9,10 +9,10 @@
     },
     {
         "name": "Fake RPC",
-        "endpoint": "https://akash-rpc.europlots.com:443"
+        "endpoint": "https://rpc.akashnetxyz.net"
     },
     {
         "name": "Behind RPC",
-        "endpoint": "https://akash-rpc.europlots.com:443"
+        "endpoint": "https://rpc.sandbox-01.aksh.pw"
     }
   ]
