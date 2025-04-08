@@ -1,4 +1,5 @@
 [
+    "provider.v100.ch.cato.akash.pub:8444",
     "provider.4090.qci.val.akash.pub:8444",
     "provider.a100.hou3.dd.akash.pub:8444",
     "provider.rtx4090.wyo.eg.akash.pub:8444",
@@ -20,5 +21,6 @@
     "provider.h100.ams2.val.akash.pub:8444",
     "provider.dfw.nb.akash.pub:8444",
     "provider.h100.hou2.dd.akash.pub:8444",
-    "provider.hurricane.akash.pub:8444"
+    "provider.hurricane.akash.pub:8444",
+    "provider.rtx4090.evergreen.akash.pub:8444"
 ]
