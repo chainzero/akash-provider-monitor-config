@@ -6,9 +6,5 @@
     {
       "name": "Akashnet Primary RPC",
       "endpoint": "https://rpc.akashnet.net"
-    },
-    {
-        "name": "Sandbox RPC",
-        "endpoint": "https://rpc.sandbox-01.aksh.pw:443"
-    }    
+    }
   ]
